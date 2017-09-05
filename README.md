@@ -6,6 +6,8 @@
 * Threshold 
 * Amostragem e Quantização 
 
+* Tarefa
+
 # Ambiente e Bibliotecas
 
 * python 3.6 
