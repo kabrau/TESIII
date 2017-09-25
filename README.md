@@ -5,8 +5,9 @@
 * Histogramas
 * Threshold 
 * Amostragem e Quantização 
-
-* Tarefa
+* Operações lógicas e aritméticas em Imagens
+* Morfologia Matemática
+* Filtros
 
 # Ambiente e Bibliotecas
 
@@ -16,4 +17,5 @@
   * numpy 
   * opencv (pip install opencv-python)
   * os
+  * scipy
     
